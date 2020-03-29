@@ -1,0 +1,3 @@
+/home/gustavo/Documents/Insper/SuperComp/projeto1/Projeto1-SuperComp/build/CMakeFiles/rebuild_cache.dir
+/home/gustavo/Documents/Insper/SuperComp/projeto1/Projeto1-SuperComp/build/CMakeFiles/ingenuo.dir
+/home/gustavo/Documents/Insper/SuperComp/projeto1/Projeto1-SuperComp/build/CMakeFiles/edit_cache.dir

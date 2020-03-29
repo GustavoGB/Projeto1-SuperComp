@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ingenuo.dir/ingenuo.cpp.o  -o ingenuo 
