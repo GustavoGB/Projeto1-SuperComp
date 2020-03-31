@@ -9,16 +9,16 @@
 /home/gustavo/Documents/Insper/SuperComp/projeto1/Projeto1-SuperComp/ingenuo.cpp
 iostream
 -
+cmath
+-
+ctime
+-
 vector
--
-chrono
--
-tuple
--
-string
 -
 sstream
 -
-cmath
+string
+-
+tuple
 -
 
