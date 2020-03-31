@@ -12,7 +12,7 @@ def escolhe_alunos(prefs, aluno_projeto, vagas, satisfacao_atual=0, melhor=None,
             print('Melhor:', melhor, file=sys.stderr)
         return melhor
 
-    for proj_atual in range(prefs.shape[1]):
+    for proj_atual in range(prefs.shape[1]):    
         if vagas[proj_atual] > 0: # projeto prefs[j] tem vaga!
             vagas[proj_atual] -= 1
             aluno_projeto[i] = proj_atual
