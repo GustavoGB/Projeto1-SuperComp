@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/gustavo/Documents/Insper/SuperComp/projeto1/Projeto1-SuperComp/ingenuo.cpp" "/home/gustavo/Documents/Insper/SuperComp/projeto1/Projeto1-SuperComp/build/CMakeFiles/ingenuo.dir/ingenuo.cpp.o"
+  "/Users/gustavogobetti/Documents/Insper-2016-2022/2020.1-9Semestre/SuperComp/Projeto1-SuperComp/ingenuo.cpp" "/Users/gustavogobetti/Documents/Insper-2016-2022/2020.1-9Semestre/SuperComp/Projeto1-SuperComp/build/CMakeFiles/ingenuo.dir/ingenuo.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

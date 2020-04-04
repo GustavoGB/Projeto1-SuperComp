@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ingenuo.dir/ingenuo.cpp.o"
-  "ingenuo.pdb"
   "ingenuo"
+  "ingenuo.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

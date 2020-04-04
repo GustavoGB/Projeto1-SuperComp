@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/gustavo/Documents/Insper/SuperComp/projeto1/Projeto1-SuperComp/ingenuo.cpp
-iostream
--
+/Users/gustavogobetti/Documents/Insper-2016-2022/2020.1-9Semestre/SuperComp/Projeto1-SuperComp/ingenuo.cpp
 cmath
 -
 ctime
 -
-vector
+iostream
 -
 sstream
 -
 string
 -
 tuple
+-
+vector
 -
 
