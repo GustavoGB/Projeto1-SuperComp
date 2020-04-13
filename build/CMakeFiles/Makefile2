@@ -53,7 +53,7 @@ CMAKE_BINARY_DIR = /Users/gustavogobetti/Documents/Insper-2016-2022/2020.1-9Seme
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/ingenuo.dir/all
+all: CMakeFiles/projeto1Fim.dir/all
 
 .PHONY : all
 
@@ -63,36 +63,36 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/ingenuo.dir/clean
+clean: CMakeFiles/projeto1Fim.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/ingenuo.dir
+# Target rules for target CMakeFiles/projeto1Fim.dir
 
 # All Build rule for target.
-CMakeFiles/ingenuo.dir/all:
-	$(MAKE) -f CMakeFiles/ingenuo.dir/build.make CMakeFiles/ingenuo.dir/depend
-	$(MAKE) -f CMakeFiles/ingenuo.dir/build.make CMakeFiles/ingenuo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gustavogobetti/Documents/Insper-2016-2022/2020.1-9Semestre/SuperComp/Projeto1-SuperComp/build/CMakeFiles --progress-num=1,2 "Built target ingenuo"
-.PHONY : CMakeFiles/ingenuo.dir/all
+CMakeFiles/projeto1Fim.dir/all:
+	$(MAKE) -f CMakeFiles/projeto1Fim.dir/build.make CMakeFiles/projeto1Fim.dir/depend
+	$(MAKE) -f CMakeFiles/projeto1Fim.dir/build.make CMakeFiles/projeto1Fim.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/gustavogobetti/Documents/Insper-2016-2022/2020.1-9Semestre/SuperComp/Projeto1-SuperComp/build/CMakeFiles --progress-num=1,2 "Built target projeto1Fim"
+.PHONY : CMakeFiles/projeto1Fim.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/ingenuo.dir/rule: cmake_check_build_system
+CMakeFiles/projeto1Fim.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gustavogobetti/Documents/Insper-2016-2022/2020.1-9Semestre/SuperComp/Projeto1-SuperComp/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ingenuo.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/projeto1Fim.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/gustavogobetti/Documents/Insper-2016-2022/2020.1-9Semestre/SuperComp/Projeto1-SuperComp/build/CMakeFiles 0
-.PHONY : CMakeFiles/ingenuo.dir/rule
+.PHONY : CMakeFiles/projeto1Fim.dir/rule
 
 # Convenience name for target.
-ingenuo: CMakeFiles/ingenuo.dir/rule
+projeto1Fim: CMakeFiles/projeto1Fim.dir/rule
 
-.PHONY : ingenuo
+.PHONY : projeto1Fim
 
 # clean rule for target.
-CMakeFiles/ingenuo.dir/clean:
-	$(MAKE) -f CMakeFiles/ingenuo.dir/build.make CMakeFiles/ingenuo.dir/clean
-.PHONY : CMakeFiles/ingenuo.dir/clean
+CMakeFiles/projeto1Fim.dir/clean:
+	$(MAKE) -f CMakeFiles/projeto1Fim.dir/build.make CMakeFiles/projeto1Fim.dir/clean
+.PHONY : CMakeFiles/projeto1Fim.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

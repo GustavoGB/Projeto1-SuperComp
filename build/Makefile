@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named ingenuo
+# Target rules for targets named projeto1Fim
 
 # Build rule for target.
-ingenuo: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 ingenuo
-.PHONY : ingenuo
+projeto1Fim: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 projeto1Fim
+.PHONY : projeto1Fim
 
 # fast build rule for target.
-ingenuo/fast:
-	$(MAKE) -f CMakeFiles/ingenuo.dir/build.make CMakeFiles/ingenuo.dir/build
-.PHONY : ingenuo/fast
+projeto1Fim/fast:
+	$(MAKE) -f CMakeFiles/projeto1Fim.dir/build.make CMakeFiles/projeto1Fim.dir/build
+.PHONY : projeto1Fim/fast
 
 ingenuo.o: ingenuo.cpp.o
 
@@ -129,7 +129,7 @@ ingenuo.o: ingenuo.cpp.o
 
 # target to build an object file
 ingenuo.cpp.o:
-	$(MAKE) -f CMakeFiles/ingenuo.dir/build.make CMakeFiles/ingenuo.dir/ingenuo.cpp.o
+	$(MAKE) -f CMakeFiles/projeto1Fim.dir/build.make CMakeFiles/projeto1Fim.dir/ingenuo.cpp.o
 .PHONY : ingenuo.cpp.o
 
 ingenuo.i: ingenuo.cpp.i
@@ -138,7 +138,7 @@ ingenuo.i: ingenuo.cpp.i
 
 # target to preprocess a source file
 ingenuo.cpp.i:
-	$(MAKE) -f CMakeFiles/ingenuo.dir/build.make CMakeFiles/ingenuo.dir/ingenuo.cpp.i
+	$(MAKE) -f CMakeFiles/projeto1Fim.dir/build.make CMakeFiles/projeto1Fim.dir/ingenuo.cpp.i
 .PHONY : ingenuo.cpp.i
 
 ingenuo.s: ingenuo.cpp.s
@@ -147,7 +147,7 @@ ingenuo.s: ingenuo.cpp.s
 
 # target to generate assembly for a file
 ingenuo.cpp.s:
-	$(MAKE) -f CMakeFiles/ingenuo.dir/build.make CMakeFiles/ingenuo.dir/ingenuo.cpp.s
+	$(MAKE) -f CMakeFiles/projeto1Fim.dir/build.make CMakeFiles/projeto1Fim.dir/ingenuo.cpp.s
 .PHONY : ingenuo.cpp.s
 
 # Help Target
@@ -158,7 +158,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... ingenuo"
+	@echo "... projeto1Fim"
 	@echo "... ingenuo.o"
 	@echo "... ingenuo.i"
 	@echo "... ingenuo.s"
