@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.tf": "ignore",
+        "vector": "cpp"
+    }
+}
